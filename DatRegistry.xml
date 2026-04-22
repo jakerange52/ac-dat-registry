@@ -6,7 +6,7 @@
     <Servers>
       <Server name="Seedsow"/>
     </Servers>
-    <Zip url="https://drive.google.com/file/d/1aXqFenCFFQ-SzdGu3FU3SWaeGEYzaQOz/view?usp=sharing" sha256="" size="0"/>
+    <Zip url="https://github.com/jakerange52/ac-dat-registry/releases/download/Dat/dark-majesty.zip" sha256="" size="0"/>
     <File name="client_portal.dat"        url="" sha256="" size="0"/>
     <File name="client_cell_1.dat"        url="" sha256="" size="0"/>
     <File name="client_local_English.dat" url="" sha256="" size="0"/>
