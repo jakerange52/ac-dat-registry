@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ShadowLauncher Beta Server List
+  Hosted at: https://raw.githubusercontent.com/acresources/datregistry/master/BetaServerList.xml
+
+  This file lists servers that are in active development / pre-release testing.
+  They may have custom DAT sets. Players opt in via "Show Beta Servers" in the launcher.
+
+  Fields:
+    id            - unique lowercase identifier, no spaces
+    name          - display name shown in the browser and server list
+    emu           - emulator type: ACE or GDLE
+    server_host   - hostname or IP
+    server_port   - port number
+    description   - short description shown in the browser
+    discord_url   - (optional) Discord invite link
+    website_url   - (optional) website URL
+    default_rodat - true/false
+    default_secure- true/false (SecureLogon / GLS ticket auth)
+    status        - free-form status text e.g. "Alpha", "Closed Beta"
+    dat_zip_url   - (optional) **If you do not set this the users primary directory will be used**
+                    direct download URL to a zip of custom DAT files.
+                    If omitted, retail DATs are used. If you are using github use the 
+                    latest release for your server tag. e.g.: 
+                    https://github.com/{owner}/{repo}/releases/tag/{tagname}/
+-->
+<ArrayOfServerItem>
+
+  <ServerItem>
+    <id>b1c3fc75-09a4-4fe9-9b98-b0eff31eb9ce</id>
+    <name>Daralet</name>
+    <emu>ACE</emu>
+    <server_host>play.daralet.ac</server_host>
+    <server_port>9000</server_port>
+    <description>Custom DAT server with a classic feel, an altered storyline, and modernized systems/content. </description>
+    <discord_url>https://discord.gg/3H5J2zwqEG</discord_url>
+    <website_url></website_url>
+    <default_rodat>false</default_rodat>
+    <default_secure>false</default_secure>
+    <status>Closed Beta</status>
+    <dat_zip_url>https://github.com/jakerange52/ac-dat-registry/releases/tag/Daralet</dat_zip_url>
+  </ServerItem>
+
+
+</ArrayOfServerItem>
