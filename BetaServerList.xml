@@ -37,8 +37,23 @@
     <website_url></website_url>
     <default_rodat>false</default_rodat>
     <default_secure>false</default_secure>
-    <status>Closed Beta</status>
+    <status>Open Beta</status>
     <dat_zip_url>https://github.com/jakerange52/ac-dat-registry/releases/tag/Daralet</dat_zip_url>
+  </ServerItem>
+  
+   <ServerItem>
+    <id>1fe34b7a-7354-47e9-9994-af69e6896f6e</id>
+    <name>Unfamiliar Shores</name>
+    <emu>ACE</emu>
+    <server_host>74.50.118.178</server_host>
+    <server_port>9000</server_port>
+    <description>small DM based server with Multiple Modes SC/HC/SSF. </description>
+    <discord_url>https://discord.gg/d3ZPpQsHCd</discord_url>
+    <website_url></website_url>
+    <default_rodat>false</default_rodat>
+    <default_secure>false</default_secure>
+    <status>Open Beta</status>
+    <dat_zip_url>https://github.com/jakerange52/ac-dat-registry/releases/tag/UnfamiliarShores</dat_zip_url>
   </ServerItem>
 
 
