@@ -38,7 +38,7 @@
     <default_rodat>false</default_rodat>
     <default_secure>false</default_secure>
     <status>Open Beta</status>
-    <dat_zip_url>https://github.com/jakerange52/ac-dat-registry/releases/tag/Daralet</dat_zip_url>
+    <dat_zip_url>https://github.com/daralet-ac/dat-repository/releases/latest</dat_zip_url>
   </ServerItem>
   
    <ServerItem>
